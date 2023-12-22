@@ -1,4 +1,4 @@
-# ML
+# PetMate-MachineLearning
 The content-based filtering method recommends several objects based on the similarity of the recommended objects with the selected object. Content based filtering uses two user vectors which in this case are the user preference and pet datasets, but recognizes that there may be other information available about the user and/or pet that can improve prediction. The additional information is fed to a neural network which then generates user and pet vectors.
 
 ## Dataset
