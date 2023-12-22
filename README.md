@@ -8,6 +8,6 @@ Source: Reliable Animal Information Websites on the Internet Like Whiskas and Ro
 2 sequential neural network models are made which will be connected to the dot product. the benchmark for the model built is the loss value. where the loss value obtained reaches 0.006.
 
 ## Deploy Model
-**Convert Model info H5 format
-**Make API Endpoint Using Flask
-**Create Container Using Docker and push to Cloud Run
+*** Convert Model info H5 format
+*** Make API Endpoint Using Flask
+*** Create Container Using Docker and push to Cloud Run
